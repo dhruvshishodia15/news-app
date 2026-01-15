@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 45,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amala Balakrishner",
+            "title": "Asia-Pacific markets mostly fall as investors bet on Fed rate cut - CNBC",
+            "description": "Australia's unemployment rate eased to 4.2% on a seasonally-adjusted basis in July, in line with estimates of economists polled by Reuters.",
+            "url": "https://www.cnbc.com/2025/08/14/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108185345-1755095034996-gettyimages-1206728108-dss02414.jpeg?v=1755095047&w=1920&h=1080",
+            "publishedAt": "2025-08-14T06:34:00Z",
+            "content": "Good morning from Singapore.\r\nInvestors are awaiting the release of a slew of employment-related data from Australia.\r\nEconomists polled by Reuters expect an increase of 25,000 employed individuals i… [+658 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "NY attorney general sues Zelle's parent company after Trump administration drops similar case - AP News",
+            "description": "New York’s attorney general has sued the parent company of the Zelle payment platform, months after the federal Consumer Financial Protection Bureau abandoned a similar case under the Trump administration. State Attorney General Letitia James sued Early Warni…",
+            "url": "https://apnews.com/article/zelle-lawsuit-new-york-james-trump-7c8fff4e80e28ce55e3557346d7126b0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/789e2c7/2147483647/strip/true/crop/6543x3680+0+341/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fde%2F52%2Ffa8c2c165a5b06711d4cb3798966%2F6f3f4895ad394c0f86c087e71371fef6",
+            "publishedAt": "2025-08-13T22:17:00Z",
+            "content": "NEW YORK (AP) New Yorks attorney general on Wednesday sued the parent company of the Zelle payment platform, months after the federal Consumer Financial Protection Bureau abandoned a similar case as … [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Exclusive | Walmart’s New Employee Perk Takes a Bite Out of Workers’ Grocery Bills - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/business/retail/walmart-grocery-discount-employees-2d3f2329",
+            "urlToImage": null,
+            "publishedAt": "2025-08-13T21:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Information"
+            },
+            "author": "Sri Muppidi, Erin Woo, Natasha Mascarenhas",
+            "title": "Before Wild Chrome Bid, Perplexity Had Been Hunting for Browsers - The Information",
+            "description": "Perplexity made headlines this week when the artificial intelligence startup said it had offered to buy Google’s Chrome, the world’s largest internet browser, for a price amounting to nearly double its valuation. While that acquisition seems unlikely to trans…",
+            "url": "https://www.theinformation.com/articles/wild-chrome-bid-perplexity-hunting-browsers",
+            "urlToImage": "https://tii.imgix.net/production/articles/15550/2359144b-5f46-468b-8664-f73250b16ff3.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+            "publishedAt": "2025-08-13T21:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Igor Bobic, Arthur Delaney",
+            "title": "Trump Has Resorted To Making Numbers Up — And Experts Say It Should Worry All Of Us - HuffPost",
+            "description": "The president is eliminating top government statisticians and data collection efforts he doesn’t like, raising alarms about the harm he could do to the U.S. economy.",
+            "url": "https://www.huffpost.com/entry/donald-trump-bls-antoni_n_689cd337e4b03bdc47506381",
+            "urlToImage": "https://img.huffingtonpost.com/asset/689cd4a0170000e5bb63e20c.jpeg?cache=M5NP9QkPFi&ops=500_281%2Cscalefit_1200_630",
+            "publishedAt": "2025-08-13T21:27:58Z",
+            "content": "WASHINGTON Donald Trump has a simple solution when numbers are telling him something he does not want to hear: Make up new numbers. \r\nThe presidents strategy, if you want to call it one, was on vivid… [+8366 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Nivedita Hazra",
+            "title": "Cisco in charts: Product revenue continues double-digit YY growth - Seeking Alpha",
+            "description": "Cisco in charts: Product revenue continues double-digit YY growth",
+            "url": "https://seekingalpha.com/news/4484994-cisco-in-charts-product-revenue-continues-double-digit-yy-growth",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/attachment/image/78d6a1f8d4df00e44c47e7c7c092a34a.png?io=getty-c-w900",
+            "publishedAt": "2025-08-13T20:54:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Yacob Reyes",
+            "title": "Florida AG announces ban on \"7-OH\" products - Axios",
+            "description": "The announcement makes Florida the first state to ban the concentrated kratom byproduct.",
+            "url": "https://www.axios.com/local/tampa-bay/2025/08/13/florida-ag-ban-7-oh-kratom-products",
+            "urlToImage": "https://images.axios.com/QX3841p1YuCZNHXf8jS0wk9hN34=/0x552:3260x2386/1366x768/2025/08/13/1755115310519.jpeg",
+            "publishedAt": "2025-08-13T20:44:02Z",
+            "content": "Florida Attorney General James Uthmeier on Wednesday made it illegal to sell 7-hydroxymitragynine, known as 7-OH, a compound found in some kratom products, by classifying it as a Schedule I controlle… [+1267 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Air Canada to begin cancelling flights Thursday ahead of possible strike by its flight attendants - CBS News",
+            "description": "Air Canada says cancelling flights will allow for an orderly shutdown of operations in case of a strike.",
+            "url": "https://www.cbsnews.com/news/air-canada-strike-flights-cancelled-flight-attendants/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/03/28/7dfa6ecb-b4f9-45e1-8710-77c9a99e4f9b/thumbnail/1200x630/ac639cdb62c67ad933b66d96c05102b9/gettyimages-2204452516.jpg",
+            "publishedAt": "2025-08-13T20:42:01Z",
+            "content": "Air Canada said it will start cancelling flights on Thursday ahead of a possible strike by its flight attendants, which the airline said will allow for an orderly shutdown of Canada's largest airline… [+1615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": null,
+            "title": "Stock Market Today: Dow Rockets 400 Points; S&P, Nasdaq Extend Rally On Rates Hopes To New Highs; Crypto Stock Catapults - Investor's Business Daily",
+            "description": "Stock Market Today: The Dow Jones index rose Wednesday. But Nvidia-backed CoreWeave and Cava stock plunged on earnings.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-coreweave-crwv-cava/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/10/stock-wall-street-flags-adobe.jpg",
+            "publishedAt": "2025-08-13T20:39:00Z",
+            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Natalie Musumeci",
+            "title": "Kroger's ex-CEO ordered to reveal why he resigned — and '90s pop star Jewel is the driving force - Business Insider",
+            "description": "A judge recently ruled that ex-Kroger CEO Rodney McMullen must provide details about his resignation as part of a lawsuit involving the singer Jewel.",
+            "url": "https://www.businessinsider.com/kroger-former-ceo-rodney-mcmullen-reveal-reason-resigned-singer-jewel-2025-8",
+            "urlToImage": "https://i.insider.com/689ce95f194a2d49b8ae8507?width=1200&format=jpeg",
+            "publishedAt": "2025-08-13T20:33:00Z",
+            "content": "Kroger's ex-CEO mysteriously resigned from the supermarket giant earlier this year and now, thanks to a nearly two-year-old lawsuit that the singer-songwriter Jewel is behind, he's been ordered to re… [+4797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Joy Wiltermuth",
+            "title": "Why a jumbo Fed rate cut in September would ‘come across as panicky’ - MarketWatch",
+            "description": "Treasury Secretary Scott Bessent says the Federal Reserve should drastically slash rates. Wall Street isn’t so sure.",
+            "url": "https://www.marketwatch.com/story/why-a-jumbo-fed-rate-cut-in-september-would-come-across-as-panicky-8accae61",
+            "urlToImage": "https://images.mktw.net/im-48036226/social",
+            "publishedAt": "2025-08-13T20:26:00Z",
+            "content": "Investors have begun to see the possibility of the Federal Reserve delivering a jumbo rate cut in September of 50 basis points just like the one delivered \r\nalmost a year ago. Helping nudge that view… [+236 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Monique Mulima, Bailey Lipschultz, Anthony Hughes",
+            "title": "Crypto Firm Bullish Soars 84% in Debut After $1.1 Billion IPO - Bloomberg.com",
+            "description": "Bullish shares jumped 84% from the IPO price after the digital-asset exchange operator and owner of media outlet CoinDesk raised $1.1 billion in an initial public offering.",
+            "url": "https://www.bloomberg.com/news/articles/2025-08-13/crypto-firm-bullish-surges-143-in-debut-after-1-1-billion-ipo",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw1ZabmEwBWo/v1/1200x800.jpg",
+            "publishedAt": "2025-08-13T20:12:41Z",
+            "content": "Bullish shares jumped 84% from the IPO price after the digital-asset exchange operator and owner of media outlet CoinDesk raised $1.1 billion in an initial public offering.\r\nShares of the Cayman Isla… [+208 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Nick Lichtenberg",
+            "title": "Goldman Sachs doubles down on tariff research that infuriated Trump, saying average Americans will bear two-thirds of the costs - Fortune",
+            "description": "“We stand by the results of this study,” Goldman economist David Mericle told CNBC’s Squawk on the Street on Wednesday.",
+            "url": "https://fortune.com/2025/08/13/goldman-sachs-tariffs-donald-trump-david-solomon-dj/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/GettyImages-2202646094-e1755114834715.jpg?resize=1200,600",
+            "publishedAt": "2025-08-13T20:07:00Z",
+            "content": "Goldman Sachs is refusing to back away from its analysis that Americansnot foreign exporters or overseas governmentsare bearing the majority of costs from President Donald Trumps sweeping tariffs. Th… [+3205 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "145-year-old film company Kodak pushes back on reports it may shut down - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/GMA/Living/145-year-film-company-kodak-pushes-back-reports/story?id\\\\u003d124607886",
+            "urlToImage": null,
+            "publishedAt": "2025-08-13T19:47:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "Cava, Chipotle and other fast-casual restaurant chains are finally hit by consumer slowdown - CNBC",
+            "description": "After bucking industry trends, fast-casual chains like Chipotle and Cava are finally feeling the consumer slowdown.",
+            "url": "https://www.cnbc.com/2025/08/13/cava-chipotle-sweetgreen-report-slower-sales.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108185432-1755100358358-gettyimages-2154377328-CAVA_RESTAURANTS_EARNS.jpeg?v=1755100379&w=1920&h=1080",
+            "publishedAt": "2025-08-13T18:51:02Z",
+            "content": "Cava stock tumbled 16% in afternoon trading on Wednesday, making it the latest fast-casual chain to feel Wall Street's wrath after reporting disappointing quarterly sales.\r\nA year ago, eateries like … [+5769 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Amazon expands its perishable delivery service, putting pressure on traditional grocers - AP News",
+            "description": "Amazon is now rolling out a service where its Prime members can order their blueberries and milk at the same time as their batteries and other basic items. The online juggernaut said Wednesday that customers in more than 1,000 cities and towns now have access…",
+            "url": "https://apnews.com/article/amazon-perishable-prime-grocery-834dbc5d25eb01caafcf37f09aa308ad",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e4ecb46/2147483647/strip/true/crop/4500x2531+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2Fde%2F280715eb4f9b3897faa4af6a84cc%2F284094ae1db54cd6b6c59fb189d6a181",
+            "publishedAt": "2025-08-13T18:30:00Z",
+            "content": "NEW YORK (AP) Amazon is now rolling out a service where its Prime members can order their blueberries and milk at the same time as basic items like batteries and T-shirts and get them within hours. \r… [+3892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "The Nuke Race Is On. Energy Department Taps 10 Start-Ups to Build a Reactor By Mid-2026. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/nuke-race-energy-department-start-ups-reactor-ee63471d",
+            "urlToImage": null,
+            "publishedAt": "2025-08-13T18:26:00Z",
+            "content": null
+        }
+    ]
+}
