@@ -1,20 +1,28 @@
 import React, { Component } from 'react'
 
-export default class Newsitem extends Component {
-
+export default class NewsItem extends Component {
   render() {
-    let {title, description, imageurl, newsurl, author, date} = this.props
+    const { title, description, imageurl, newsurl, author, date } = this.props;
+
     return (
-      <div>
-          <div className="card" style={{width: "x   18rem"}}>
-            <img src={imageurl} className="card-img-top" alt="..."/>
-            <div className="card-body">
-            <h5 className="card-title">{title}</h5>
-            <p className="card-text">{description}</p>
-            <a href= {newsurl}  target='_blank' rel="noreferrer" className="btn btn-primary">Read more</a>
-             <p className="card-text"><small class="text-body-secondary">By {author?author:"unknown"} on {date}</small></p>
+      <div className="card" style={{ width: "18rem" }}>
+        <img
+          src={imageurl ? imageurl : "https://via.placeholder.com/150"}
+          className="card-img-top"
+          alt="news"
+        />
+        <div className="card-body">
+          <h5 className="card-title">{title}</h5>
+          <p className="card-text">{description}</p>
+          <a href={newsurl} target="_blank" rel="noreferrer" className="btn btn-primary">
+            Read more
+          </a>
+          <p className="card-text">
+            <small className="text-muted">
+              By {author ? author : "Unknown"} on {new Date(date).toLocaleDateString()}
+            </small>
+          </p>
         </div>
-      </div>
       </div>
     )
   }
