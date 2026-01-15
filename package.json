@@ -2,7 +2,8 @@
   "name": "newsapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/newsapp",
+  "homepage": "https://dhruvshishodia15.github.io/news-app"
+,
 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
